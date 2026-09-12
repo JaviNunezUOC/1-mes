@@ -18,17 +18,17 @@ const NEXT_VISIT_DATE = null; // ejemplo: new Date('2026-10-10T00:00:00')
 // ---------------------------------------------
 const PHOTOS = [
   { file: '1.jpeg',  caption: '' },
-  { file: '2.jpg',   caption: '' },
-  { file: '3.jpg',   caption: '' },
-  { file: '4.jpg',   caption: '' },
-  { file: '5.jpg',   caption: '' },
-  { file: '6.jpg',   caption: '' },
-  { file: '7.jpg',   caption: '' },
-  { file: '8.jpg',   caption: '' },
+  { file: '2.jpeg',   caption: '' },
+  { file: '3.jpeg',   caption: '' },
+  { file: '4.jpeg',   caption: '' },
+  { file: '5.jpeg',   caption: '' },
+  { file: '6.jpeg',   caption: '' },
+  { file: '7.jpeg',   caption: '' },
+  { file: '8.jpeg',   caption: '' },
   { file: '9.jpeg',  caption: '' },
-  { file: '10.jpg',  caption: '' },
-  { file: '11.jpg',  caption: '' },
-  { file: '12.jpg',  caption: '' },
+  { file: '10.jpeg',  caption: '' },
+  { file: '11.jpeg',  caption: '' },
+  { file: '12.jpeg',  caption: '' },
   { file: '13.jpg',  caption: '' },
 ];
 
