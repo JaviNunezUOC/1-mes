@@ -17,18 +17,18 @@ const NEXT_VISIT_DATE = null; // ejemplo: new Date('2026-10-10T00:00:00')
 //    "caption" es el texto que aparece debajo de cada polaroid y en el visor.
 // ---------------------------------------------
 const PHOTOS = [
-  { file: '1.JPEG',  caption: '' },
-  { file: '2.JPEG',  caption: '' },
-  { file: '3.JPEG',  caption: '' },
-  { file: '4.JPEG',  caption: '' },
-  { file: '5.JPEG',  caption: '' },
-  { file: '6.JPEG',  caption: '' },
-  { file: '7.JPEG',  caption: '' },
-  { file: '8.JPEG',  caption: '' },
-  { file: '9.JPEG',  caption: '' },
-  { file: '10.JPEG', caption: '' },
-  { file: '11.JPEG', caption: '' },
-  { file: '12.JPEG', caption: '' },
+  { file: '1.jpg',  caption: '' },
+  { file: '2.jpg',  caption: '' },
+  { file: '3.jpg',  caption: '' },
+  { file: '4.jpg',  caption: '' },
+  { file: '5.jpg',  caption: '' },
+  { file: '6.jpg',  caption: '' },
+  { file: '7.jpg',  caption: '' },
+  { file: '8.jpg',  caption: '' },
+  { file: '9.jpg',  caption: '' },
+  { file: '10.jpg', caption: '' },
+  { file: '11.jpg', caption: '' },
+  { file: '12.jpg', caption: '' },
   { file: '13.jpg', caption: '' },
 ];
 
